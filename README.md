@@ -43,6 +43,12 @@ Ensure that these libraries are installed in your Python environment before runn
 
 The code expects a dataset containing university ranking information. The dataset should be in a tabular format, with columns representing different attributes of the universities. The provided sample dataset includes columns such as world rank, institution name, location, national rank, quality of education, alumni employment, quality of faculty, research output, quality publications, influence, citations, and a score.
 
+## Some outputs
+[![](./src/1.png)](#)
+[![](./src/2.png)](#)
+[![](./src/3.png)](#)
+[![](./src/4.png)](#)
+
 ## License
 
 This code is provided under the [MIT License](https://opensource.org/licenses/MIT). Feel free to modify and use it according to your needs.
